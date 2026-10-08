@@ -1,0 +1,9 @@
+.DS_Store
+
+# SwiftPM 构建缓存
+.build/
+
+# 构建产物
+dist/
+build/dmg/
+build/icon/draw_icon
